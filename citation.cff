@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Naik"
+  given-names: "Shlok"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "gpt-gen-website"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-04-10
+url: "https://github.com/shlok00/gpt-gen-website"
